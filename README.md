@@ -4,7 +4,7 @@
 한국 음식 데이터셋 : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=79
 <br> 본 데이터셋은 한국지능정보사회진흥원의 사업결과 임.
 <br> 반드시 위의 링크를 통해서만 데이터셋을 다운로드 받아야 함.
-
+- 만약 본 Github 저장소에 허가되지 않은 데이터셋이 존재한다면, jasonjun1121@gmail.com 으로 메일 부탁드리겠습니다.
 # 학습 결과
 
 ### ResNet50V2에서의 Accuracy가 가장 높게 측정됨.
