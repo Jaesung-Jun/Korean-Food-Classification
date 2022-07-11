@@ -21,6 +21,6 @@
 - test top-5 accuracy :  0.8920414447784424
 
 ## Model Train & Test
-1. aihub(https://aihub.or.kr/aidata/13594)에서 데이터셋 다운로드 후 압축풀기
+1. aihub ( https://aihub.or.kr/aidata/13594 ) 에서 데이터셋 다운로드 후 압축풀기
 2. Image_Crop_Preprocessing_test.ipynb에서 이미지 경로 수정후 전처리
-3. ResNet50V2_test_TopK-cropped_0609.ipyn 를 실행하여 학습 및 테스트
+3. ResNet50V2_test_TopK-cropped_0609.ipynb 를 실행하여 학습 및 테스트
